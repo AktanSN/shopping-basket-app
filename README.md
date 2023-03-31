@@ -1,5 +1,5 @@
 # shopping-basket-app
-Redux Toolkit Kullanım Pratiği İçin Yapıldı.
+Redux Toolkit'in ReactJs Uygulamasında Kullanım Pratiği İçin Yapıldı.
 
 # Uygulama Resmi 
 
